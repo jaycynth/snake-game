@@ -1,0 +1,7 @@
+headers = C:/msys64/mingw64/include/ncursesw/curses.h
+headerFilter = C:/msys64/mingw64/include/ncursesw/curses.h
+
+compilerOpts = -I C:/msys64/mingw64/include/
+linkerOpts.mingw = -L C:/msys64/mingw64/lib -lncursesw
+
+
